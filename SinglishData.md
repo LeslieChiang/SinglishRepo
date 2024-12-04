@@ -3061,31 +3061,31 @@ The sources explain that these particles are commonly added to the end of senten
 
 Here's a breakdown of each particle and how it can be used in Singlish:
 
-**1. Lah**
+**Lah**
 *   **Description:** Adding "lah" to a sentence generally **adds emphasis and confidence** to the statement. It can also soften the tone, making it sound less demanding or confrontational.
 *   **Example:**
     *   Queen's English: "I'm sure the coffee will taste alright!"
     *   Singlish: "The kopi here okay one lah!"
 
-**2. Leh**
+**Leh**
 *   **Description:** "Leh" is used to **express uncertainty or to seek confirmation** from the listener. It often suggests that the speaker is unsure about something or is seeking clarification.
 *   **Example:**
     *   Queen's English: "I'm not too sure how to order a coffee in Singapore."
     *   Singlish: "I not sure how to order kopi leh."
 
-**3. Lor**
+**Lor**
 *   **Description:** "Lor" expresses a sense of **resignation or acceptance** of a situation, often one that is beyond the speaker's control. It can convey a feeling of "oh well" or "that's just how it is."
 *   **Example:**
     *   Queen's English: "The coffee is out of stock."
     *   Singlish: "The kopi boh liao lor."
 
-**4. Hor**
+**Hor**
 *   **Description:** "Hor" is typically used at the end of a sentence to **pose a question that seeks agreement** from the listener. It's similar to the English tag questions like "isn't it?" or "right?"
 *   **Example:**
     *   Queen's English: "Are you sure you would like a cup of coffee and not tea?"
     *   Singlish: "You sure you want kopi hor?"
 
-**5. Mah**
+**Mah**
 *   **Description:**  "Mah" can be used to express a few different meanings: 
     *   **Confidence or stating the obvious:** It suggests that the speaker believes their statement is self-evident or undeniable.
     *   **Mild persuasion:** It can gently encourage the listener to agree with the speaker's suggestion.
@@ -3093,19 +3093,19 @@ Here's a breakdown of each particle and how it can be used in Singlish:
     *   Queen's English: "Would you like to try the coffee from this shop?"
     *   Singlish: "You want to try the kopi from this shop mah?"
 
-**6. Meh**
+**Meh**
 *   **Description:** "Meh" expresses **doubt or scepticism** about something. It's often used when the speaker is questioning the validity or likelihood of something.
 *   **Example:**
     *   Queen's English: "Are you sure they sell coffee?"
     *   Singlish: "They got sell kopi meh?"
 
-**7. Sia**
+**Sia**
 *   **Description:** "Sia" is used to express **surprise or amazement**, often in response to something unexpected or remarkable. It can be similar to saying "wow" or "really?" in English.
 *   **Example:**
     *   Queen's English: "The coffee is really expensive."
     *   Singlish: "The kopi sibeh expensive sia."
 
-**8. Liao**
+**Liao**
 *   "liao", it is a common Singlish particle that typically indicates **completion or a change of state**. It is similar to the English words "already" or "finished".
 
 **these Singlish particles can be combined in various ways to create more complex shades of meaning**, which can make them even more challenging to grasp for non-native speakers. However, with exposure and practice, you can start to understand the subtleties of these particles and use them to communicate more effectively in Singlish. 
@@ -3144,46 +3144,46 @@ Here are over different ways to order coffee, tea, or Milo at a Singaporean *kop
 
 ### Kopi (Coffee)
 
-1.  **"Auntie, kopi, kosong."** (Auntie, coffee, no sugar.) - This is a simple order for coffee with condensed milk, but no sugar.
-2.  **"Boss, kopi-O, siew dai."** (Boss, black coffee, less sugar.) - This requests a black coffee with less sugar than the usual amount.
-3.  **"Kopi-C, peng, gah dai!"** (Coffee with evaporated milk, iced, more sugar!) - This order asks for an iced coffee with evaporated milk and extra sugar.
-4.  **"One kopi gau, tabao."** (One strong coffee, takeaway.) - This requests a takeaway strong coffee with condensed milk and sugar.
-5.  **"Kopi po, peng, can?"** (Weak coffee, iced, can?) - This asks for a weaker iced coffee with condensed milk and sugar.
-6.  **"Kopi-O kosong di lo, please."** (Extra thick black coffee, no sugar, please.) - This politely asks for an extra-strong black coffee with no sugar or milk.
-7.  **"Kopi-C gau peng, siew dai!"** (Strong iced coffee with evaporated milk, less sugar!) - This order requests a strong iced coffee with evaporated milk and less sugar.
-8.  **"Kopi tarik, less sweet, can?"** (Pulled coffee, less sweet, can?) - This asks for the traditional pulled coffee with less sugar.
-9.  **"Kopi gu you, one!"** (Coffee with butter, one!) - This orders a unique coffee with butter added.
-10. **"Two kopi, one kopi-O kosong."** (Two coffees, one black coffee with no sugar.) - This order requests two coffees with condensed milk and sugar, and one black coffee without sugar.
-11. **"Kopi-C, make it gau, tabao."** (Coffee with evaporated milk, make it strong, takeaway.) - This asks for a takeaway strong coffee with evaporated milk and sugar.
-12. **"Boss, kopi-O siew dai, di lo!"** (Boss, black coffee, less sugar, extra thick!) - This requests a black coffee with less sugar, made extra strong.
-13. **"Kopi ga kweh nrng, please!"** (Coffee with an egg, please!) - This politely requests the adventurous coffee with an egg.
-14. **"One kopi pua sio, tabao."** (One black coffee with some hot water replaced with room temperature water, takeaway.) - This asks for a takeaway black coffee with a mix of hot and room temperature water.
+**"Auntie, kopi, kosong."** (Auntie, coffee, no sugar.) - This is a simple order for coffee with condensed milk, but no sugar.
+**"Boss, kopi-O, siew dai."** (Boss, black coffee, less sugar.) - This requests a black coffee with less sugar than the usual amount.
+**"Kopi-C, peng, gah dai!"** (Coffee with evaporated milk, iced, more sugar!) - This order asks for an iced coffee with evaporated milk and extra sugar.
+**"One kopi gau, tabao."** (One strong coffee, takeaway.) - This requests a takeaway strong coffee with condensed milk and sugar.
+**"Kopi po, peng, can?"** (Weak coffee, iced, can?) - This asks for a weaker iced coffee with condensed milk and sugar.
+**"Kopi-O kosong di lo, please."** (Extra thick black coffee, no sugar, please.) - This politely asks for an extra-strong black coffee with no sugar or milk.
+**"Kopi-C gau peng, siew dai!"** (Strong iced coffee with evaporated milk, less sugar!) - This order requests a strong iced coffee with evaporated milk and less sugar.
+**"Kopi tarik, less sweet, can?"** (Pulled coffee, less sweet, can?) - This asks for the traditional pulled coffee with less sugar.
+**"Kopi gu you, one!"** (Coffee with butter, one!) - This orders a unique coffee with butter added.
+**"Two kopi, one kopi-O kosong."** (Two coffees, one black coffee with no sugar.) - This order requests two coffees with condensed milk and sugar, and one black coffee without sugar.
+**"Kopi-C, make it gau, tabao."** (Coffee with evaporated milk, make it strong, takeaway.) - This asks for a takeaway strong coffee with evaporated milk and sugar.
+**"Boss, kopi-O siew dai, di lo!"** (Boss, black coffee, less sugar, extra thick!) - This requests a black coffee with less sugar, made extra strong.
+**"Kopi ga kweh nrng, please!"** (Coffee with an egg, please!) - This politely requests the adventurous coffee with an egg.
+**"One kopi pua sio, tabao."** (One black coffee with some hot water replaced with room temperature water, takeaway.) - This asks for a takeaway black coffee with a mix of hot and room temperature water.
 
 ### Teh (Tea)
 
-15. **"Auntie, teh-C, peng."** (Auntie, tea with evaporated milk, iced.) - This is a standard order for iced tea with evaporated milk and sugar.
-16. **"Teh-O kosong, gau!"** (Black tea, no sugar, strong!) - This requests strong black tea with no sugar.
-17. **"Teh, siew dai, please!"** (Tea with condensed milk, less sugar, please!) - This politely requests tea with condensed milk and a reduced amount of sugar.
-18. **"Teh tarik, less sweet!"** (Pulled tea with condensed milk, less sugar!) - This requests pulled tea with less sugar than usual.
-19. **"Teh halia, tabao!"** (Ginger tea, takeaway!) - This asks for a takeaway tea with ginger.
-20. **"Clementi, one!"** (Iced lemon tea, one!) - This uses local slang to order a single iced lemon tea.
-21. **"Teh-C gah dai, peng!"** (Tea with evaporated milk, extra sweet, iced!) - This requests a very sweet iced tea with evaporated milk.
-22. **"Teh-O tarik, no sugar!"** (Pulled black tea, no sugar!) - This asks for a pulled black tea without any sugar.
-23. **"Teh-Cino, one!"** (Tea with frothed milk, one!) - This orders a tea similar to a cappuccino.
+**"Auntie, teh-C, peng."** (Auntie, tea with evaporated milk, iced.) - This is a standard order for iced tea with evaporated milk and sugar.
+**"Teh-O kosong, gau!"** (Black tea, no sugar, strong!) - This requests strong black tea with no sugar.
+**"Teh, siew dai, please!"** (Tea with condensed milk, less sugar, please!) - This politely requests tea with condensed milk and a reduced amount of sugar.
+**"Teh tarik, less sweet!"** (Pulled tea with condensed milk, less sugar!) - This requests pulled tea with less sugar than usual.
+**"Teh halia, tabao!"** (Ginger tea, takeaway!) - This asks for a takeaway tea with ginger.
+**"Clementi, one!"** (Iced lemon tea, one!) - This uses local slang to order a single iced lemon tea.
+**"Teh-C gah dai, peng!"** (Tea with evaporated milk, extra sweet, iced!) - This requests a very sweet iced tea with evaporated milk.
+**"Teh-O tarik, no sugar!"** (Pulled black tea, no sugar!) - This asks for a pulled black tea without any sugar.
+**"Teh-Cino, one!"** (Tea with frothed milk, one!) - This orders a tea similar to a cappuccino.
 
 ### Milo
 
-24. **"Milo dinosaur!"** (Iced Milo with condensed milk, sugar, and Milo powder topping!) - This orders the classic Milo Dinosaur.
-25. **"Milo kosong, peng!"** (Plain Milo, iced!) - This requests iced Milo without milk or sugar.
-26. **"Milo Godzilla!"** (Iced Milo with ice cream, condensed milk, sugar, and toppings!) - This orders the indulgent Milo Godzilla.
-27. **"Milo Cino, gau!"** (Milo with frothed milk, strong!) - This asks for a Milo Cino with extra Milo powder.
-28. **"Neslo, peng, siew dai!"** (Milo with coffee, iced, less sugar!) - This requests a less sweet iced Neslo, which includes coffee.
+**"Milo dinosaur!"** (Iced Milo with condensed milk, sugar, and Milo powder topping!) - This orders the classic Milo Dinosaur.
+**"Milo kosong, peng!"** (Plain Milo, iced!) - This requests iced Milo without milk or sugar.
+**"Milo Godzilla!"** (Iced Milo with ice cream, condensed milk, sugar, and toppings!) - This orders the indulgent Milo Godzilla.
+**"Milo Cino, gau!"** (Milo with frothed milk, strong!) - This asks for a Milo Cino with extra Milo powder.
+**"Neslo, peng, siew dai!"** (Milo with coffee, iced, less sugar!) - This requests a less sweet iced Neslo, which includes coffee.
 
 ### Combinations
 
-29. **"Yuan Yang, peng!"** (Coffee and tea mix, iced!) - This orders an iced Yuan Yang, a blend of coffee and tea.
-30. **"Auntie, kopi siew dai, teh-C, peng, tabao!"** (Auntie, coffee less sugar, tea with evaporated milk, iced, takeaway!) - This requests a takeaway order of coffee with less sugar, and iced tea with evaporated milk.
-31. **"Boss, two Milo dinosaur, one kopi gau!"** (Boss, two Milo Dinosaurs, one strong coffee!) - This orders two Milo Dinosaurs and a strong coffee with condensed milk and sugar.
-32. **"Kopi-O kosong, teh tarik, less sweet, da bao!"** (Black coffee no sugar, pulled tea with less sugar, takeaway!) - This requests a takeaway order of black coffee without sugar, and pulled tea with less sugar.
+**"Yuan Yang, peng!"** (Coffee and tea mix, iced!) - This orders an iced Yuan Yang, a blend of coffee and tea.
+**"Auntie, kopi siew dai, teh-C, peng, tabao!"** (Auntie, coffee less sugar, tea with evaporated milk, iced, takeaway!) - This requests a takeaway order of coffee with less sugar, and iced tea with evaporated milk.
+**"Boss, two Milo dinosaur, one kopi gau!"** (Boss, two Milo Dinosaurs, one strong coffee!) - This orders two Milo Dinosaurs and a strong coffee with condensed milk and sugar.
+**"Kopi-O kosong, teh tarik, less sweet, da bao!"** (Black coffee no sugar, pulled tea with less sugar, takeaway!) - This requests a takeaway order of black coffee without sugar, and pulled tea with less sugar.
 
 Remember that these are just a few examples of the many ways to order *kopi*, *teh*, and Milo in Singlish. By combining different elements and modifiers, you can create many variations to suit your taste. Don't be afraid to try different combinations and enjoy the unique *kopitiam* experience!
